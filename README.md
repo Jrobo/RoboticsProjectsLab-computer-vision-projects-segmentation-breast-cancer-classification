@@ -31,6 +31,19 @@ Early and accurate diagnosis of breast cancer can save lives. This project explo
 - Gradient Boosting: 95.08%
 
 ## ▶️ Run the Project
+
+### 🔹 Option 1: Google Colab (Recommended for Beginners)
+
+Click the button below to open the notebook in **Google Colab** and run it in the cloud — no installation needed.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jrobo/RoboticsProjectsLab-computer-vision-projects-segmentation-breast-cancer-classification/blob/main/BreastCancerClassification_FCNN.ipynb)
+
+---
+
+### 🔹 Option 2: Run Locally
+
+1. Clone the repo:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/Jrobo/RoboticsProjectsLab-computer-vision-projects-segmentation-breast-cancer-classification.git
+cd RoboticsProjectsLab-computer-vision-projects-segmentation-breast-cancer-classification
 
